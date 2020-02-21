@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-util" />
+        <module name="service-base" />
+        <module name="service-edu" />
+        <module name="service-oss" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="common" target="1.8" />
+      <module name="common-util" target="1.8" />
+      <module name="guli" target="1.8" />
+      <module name="service" target="1.8" />
+      <module name="service-base" target="1.8" />
+      <module name="service-edu" target="1.8" />
+      <module name="service-oss" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
