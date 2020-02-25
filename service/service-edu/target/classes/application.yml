@@ -8,8 +8,8 @@ spring:
     name: guli-edu # 服务名
   datasource: # mysql数据库连接
     driver-class-name: com.mysql.jdbc.Driver
-    password: 123456
-    url: jdbc:mysql://localhost:3306/db190805_guli_edu?characterEncoding=utf-8&useSSL=false
+    password: Theking1217.
+    url: jdbc:mysql://localhost:3306/190805guli_edu?characterEncoding=utf-8&useSSL=false
     username: root
     type: com.zaxxer.hikari.HikariDataSource # 连接池类型
     hikari:
