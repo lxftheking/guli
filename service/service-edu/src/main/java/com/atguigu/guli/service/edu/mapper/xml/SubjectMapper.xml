@@ -3,14 +3,14 @@
 <mapper namespace="com.atguigu.guli.service.edu.mapper.SubjectMapper">
 
     <resultMap id="nestedSubject" type="com.atguigu.guli.service.edu.entity.vo.SubjectVo">
-        <id property="id" column="id" />
-        <result property="title" column="title" />
-        <result property="sort" column="sort" />
-        <collection property="children"
-                    column="id"
-                    ofType="com.atguigu.guli.service.edu.entity.vo.SubjectVo"
-                    select="selectNestedListByParentId" />
-    </resultMap>
+    <id property="id" column="id" />
+    <result property="title" column="title" />
+    <result property="sort" column="sort" />
+    <collection property="children"
+                column="id"
+                ofType="com.atguigu.guli.service.edu.entity.vo.SubjectVo"
+                select="selectNestedListByParentId" />
+</resultMap>
 
     <select id="selectNestedListByParentId" resultMap="nestedSubject">
         SELECT * FROM edu_subject WHERE parent_id = #{parentId}

@@ -1,0 +1,20 @@
+server:
+  port: 8130 # 服务端口
+
+spring:
+  profiles:
+    active: dev # 环境设置
+  application:
+    name: guli-vod # 服务名
+
+  #inputstream上传的时候需要配置，javascript sdk不需要
+  servlet:
+    multipart:
+      max-file-size: 1024MB # 最大上传单个文件大小：默认1M
+      max-request-size: 1024MB # 最大置总上传的数据大小 ：默认10M
+
+aliyun:
+  vod:
+    file:
+      keyid: LTAI4FfZNcN9YZmNRNNbSxiE
+      keysecret: tO2P0i8iS0iW1LtdYbi4rVYSm8XRRy
