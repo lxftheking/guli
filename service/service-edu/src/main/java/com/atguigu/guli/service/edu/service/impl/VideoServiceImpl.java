@@ -55,4 +55,5 @@ public class VideoServiceImpl extends ServiceImpl<VideoMapper, Video> implements
 
         baseMapper.deleteById(id);
     }
+
 }

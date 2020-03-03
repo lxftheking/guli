@@ -18,7 +18,7 @@ import java.util.List;
  * 课程 前端控制器
  * </p>
  *
- * @author Helen
+ * @author saber
  * @since 2020-02-12
  */
 @Api(description="课程章节管理")

@@ -32,4 +32,15 @@
             </resource>
         </resources>
     </build>
+    <dependencies>
+        <dependency>
+            <groupId>com.aliyun</groupId>
+            <artifactId>aliyun-java-sdk-core</artifactId>
+        </dependency>
+        <!--服务调用-->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+    </dependencies>
 </project>

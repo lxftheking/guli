@@ -4,13 +4,55 @@
     <list default="true" id="c747f641-8b0a-4de1-a365-8417045eccb6" name="Default" comment="首次提交">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/xml/SubjectMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/xml/SubjectMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/mapper/xml/SubjectMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/mapper/xml/SubjectMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/service-edu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/service-edu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/ServiceEduApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/ServiceEduApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/ChapterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/ChapterController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/api/ApiTeacherController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/api/ApiTeacherController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/CourseMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/CourseMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/xml/CourseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/xml/CourseMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/CourseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/CourseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/TeacherService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/TeacherService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/VideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/VideoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/VideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/VideoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/ServiceEduApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/ServiceEduApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/controller/api/ApiTeacherController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/controller/api/ApiTeacherController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/mapper/CourseMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/mapper/CourseMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/mapper/xml/CourseMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/mapper/xml/CourseMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/CourseService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/CourseService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/TeacherService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/TeacherService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-edu/target/classes/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/target/classes/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/service-oss.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/service-oss.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/controller/FileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/controller/FileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-oss/target/classes/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-oss/target/classes/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/service-vod.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/service-vod.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/VideoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/VideoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/VideoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/VideoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/utils/AliyunVodSDKUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/utils/AliyunVodSDKUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/src/main/resources/logback-spring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/target/classes/com/atguigu/guli/service/vod/controller/VideoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/target/classes/com/atguigu/guli/service/vod/controller/VideoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/target/classes/com/atguigu/guli/service/vod/service/VideoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/target/classes/com/atguigu/guli/service/vod/service/VideoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/target/classes/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/target/classes/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service-vod/target/classes/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-vod/target/classes/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/service/service.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -22,6 +64,10 @@
     <ignored path="$PROJECT_DIR$/service/service-oss/target/" />
     <ignored path="$PROJECT_DIR$/service-vod/target/" />
     <ignored path="$PROJECT_DIR$/service/service-vod/target/" />
+    <ignored path="$PROJECT_DIR$/infrastructure/target/" />
+    <ignored path="$PROJECT_DIR$/infrastructure/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/service/service-statistics/target/" />
+    <ignored path="$PROJECT_DIR$/service/service-ucenter/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +87,92 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/client/VodClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/controller/DailyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-189">
+              <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/ServiceStatisticsApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/client/UcenterClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/controller/MemberController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/service/DailyService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/VideoController.java">
+        <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/service/impl/DailyServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="189">
+              <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -54,31 +181,14 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/conditions/interfaces/Func.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1025">
-              <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+            <state relative-caret-position="168">
+              <caret line="217" column="17" selection-start-line="217" selection-start-column="17" selection-end-line="217" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#5215#5216#0" expanded="true" />
+                <element signature="e#5264#5265#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/TeacherController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1296">
-              <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/controller/FileController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1269">
-              <caret line="60" selection-start-line="60" selection-end-line="60" />
             </state>
           </provider>
         </entry>
@@ -88,8 +198,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -102,6 +212,7 @@
       <find>message</find>
       <find>detailMessage</find>
       <find>runtime</find>
+      <find>com.atguigu.guli</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -118,57 +229,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/common/common-util/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/SubjectVo.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/SubjectMapper.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/SubjectService.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/SubjectServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/SubjectController.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/CourseDescription.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/form/CourseInfoForm.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/Course.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/CourseDescriptionMapper.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/CourseQueryVo.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/CourseController.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/CourseService.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/VideoMapper.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/ChapterMapper.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/CommentMapper.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/CourseCollectMapper.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/VideoVo.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/ChapterVo.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/ChapterController.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/ChapterService.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/ChapterServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/form/VideoInfoForm.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/api/ApiVideoController.java" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/utils/AliyunVodSDKUtils.java" />
+        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/utils/AliyunVodSDKUtils.java" />
         <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/VideoService.java" />
         <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/VideoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/xml/SubjectMapper.xml" />
         <option value="$PROJECT_DIR$/service/service-vod/src/main/resources/logback-spring.xml" />
-        <option value="$PROJECT_DIR$/service/service-vod/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/ServiceOssApplication.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/ServiceVodApplication.java" />
-        <option value="$PROJECT_DIR$/service-vod/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-oss/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/api/ApiVideoController.java" />
+        <option value="$PROJECT_DIR$/infrastructure/pom.xml" />
+        <option value="$PROJECT_DIR$/infrastructure/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/infrastructure/eureka-server/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/infrastructure/eureka-server/src/main/java/com/atguigu/guli/eureka/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/service/pom.xml" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/service/VodService.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/service/VideoService.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/controller/VodController.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/utils/VodProperties.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/service/impl/VideoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/service/vod/controller/VideoController.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/ServiceVodApplication.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/vod/service/controller/VideoController.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/utils/AliyunVodSDKUtils.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.java" />
-        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/infrastructure/eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/test/java/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/ChapterController.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/test/java/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/entity/Member.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/ServiceStatisticsApplication.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/ServiceUcenterApplication.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/mapper/MemberMapper.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/mapper/xml/MemberMapper.xml" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/service/MemberService.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/service/impl/MemberServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service-statistics/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/ServiceStatisticsApplication.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/controller/MemberController.java" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/client/UcenterClient.java" />
+        <option value="$PROJECT_DIR$/service/service-oss/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java" />
+        <option value="$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service-edu/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/ServiceEduApplication.java" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/client/OssClient.java" />
         <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/VideoController.java" />
+        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/VideoService.java" />
+        <option value="$PROJECT_DIR$/service/service-vod/pom.xml" />
+        <option value="$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/client/VodClient.java" />
+        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.java" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/service/DailyService.java" />
+        <option value="$PROJECT_DIR$/service/service-ucenter/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/controller/DailyController.java" />
+        <option value="$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/service/impl/DailyServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -194,15 +305,32 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="service-edu" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="service-edu" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="service-vod" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="service-vod" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="57" />
-    <option name="y" value="32" />
-    <option name="width" value="1816" />
-    <option name="height" value="997" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="38" />
+    <option name="width" value="1868" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -212,8 +340,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,63 +356,7 @@
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common-util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="result" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="common-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="service-base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
@@ -297,124 +367,84 @@
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-edu" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-edu" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edu" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oss" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oss" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oss" type="462c0819:PsiDirectoryNode" />
+              <item name="statistics" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -422,18 +452,67 @@
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+              <item name="service-statistics" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="oss" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
               <item name="guli" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+              <item name="service-ucenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-ucenter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-ucenter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-ucenter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-ucenter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ucenter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-ucenter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ucenter" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-ucenter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -498,6 +577,18 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="vod" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-vod" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vod" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -511,17 +602,6 @@
               <item name="vod" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
               <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
-              <item name="guli" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="service-vod" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vod" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="guli" type="b2602c69:ProjectViewProjectNode" />
@@ -536,6 +616,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -549,7 +631,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service-vod/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service-ucenter/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -565,15 +647,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code\IDEA\190805_guli_project\guli\service\service-ucenter\src\main\resources" />
+      <recent name="D:\Code\IDEA\190805_guli_project\guli\service\service-statistics\src\main\resources" />
+      <recent name="D:\Code\IDEA\190805_guli_project\guli\infrastructure\eureka-server\src\main\resources" />
       <recent name="D:\Code\IDEA\190805_guli_project\guli\service\service-vod\src\main\resources" />
       <recent name="D:\project\190805\java\guli\common\common-util\src\main\java\com\atguigu\guli\common\base\util" />
-      <recent name="D:\project\190805\java\guli\service\service-oss\src\main\resources" />
-      <recent name="D:\project\190805\java\guli\common\common-util\src\main\java\com\atguigu\guli\common\base\result" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.atguigu.guli.service.vod.utils" />
-      <recent name="com.atguigu.service.vod" />
+      <recent name="com.atguigu.guli.service.ucenter" />
+      <recent name="" />
+      <recent name="com.atguigu.guli.service.edu.utils" />
       <recent name="com.atguigu.guli.service.edu.controller.api" />
+      <recent name="com.atguigu.guli.service.vod.utils" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code\IDEA\190805_guli_project\guli\service" />
@@ -595,25 +680,11 @@
         </RuleState>
       </list>
     </option>
-    <option name="contentProportion" value="0.21964423" />
+    <option name="contentProportion" value="0.15626757" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceVodApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceUcenterApplication">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ServiceEduApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.guli.service.edu.ServiceEduApplication" />
-      <module name="service-edu" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.guli.service.edu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -624,16 +695,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CodeGenerator.genCode (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service-statistics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CodeGenerator" />
+      <option name="METHOD_NAME" value="genCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CodeGenerator.genCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="service-edu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.guli.service.edu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.guli.service.edu" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.guli.service.edu.CodeGenerator" />
+      <module name="service-ucenter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CodeGenerator" />
       <option name="METHOD_NAME" value="genCode" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -648,6 +724,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.eureka.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ServiceEduApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-edu" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.edu.ServiceEduApplication" />
@@ -655,27 +744,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="ServiceOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-oss" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.guli.service.oss.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.oss.ServiceOssApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceVodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="service-vod" />
+    <configuration name="ServiceStatisticsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-statistics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.atguigu.guli.service.vod.*" />
+          <option name="PATTERN" value="com.atguigu.guli.service.statistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.statistics.ServiceStatisticsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUcenterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-ucenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.guli.service.ucenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.ucenter.ServiceUcenterApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceVodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-vod" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.guli.service.vod.ServiceVodApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -700,18 +803,22 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ServiceEduApplication" />
-      <item itemvalue="JUnit.CodeGenerator.genCode" />
       <item itemvalue="Spring Boot.ServiceEduApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="JUnit.CodeGenerator.genCode (1)" />
+      <item itemvalue="Spring Boot.ServiceStatisticsApplication" />
+      <item itemvalue="JUnit.CodeGenerator.genCode" />
+      <item itemvalue="Spring Boot.ServiceUcenterApplication" />
       <item itemvalue="Spring Boot.ServiceOssApplication" />
       <item itemvalue="Spring Boot.ServiceVodApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ServiceOssApplication" />
-        <item itemvalue="Spring Boot.ServiceVodApplication" />
-        <item itemvalue="Application.ServiceEduApplication" />
+        <item itemvalue="Spring Boot.ServiceStatisticsApplication" />
+        <item itemvalue="Spring Boot.ServiceUcenterApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
         <item itemvalue="JUnit.CodeGenerator.genCode" />
+        <item itemvalue="JUnit.CodeGenerator.genCode (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -746,7 +853,9 @@
       <workItem from="1582635465871" duration="2114000" />
       <workItem from="1582702308540" duration="6081000" />
       <workItem from="1582715314795" duration="3765000" />
-      <workItem from="1582850953314" duration="1217000" />
+      <workItem from="1582850953314" duration="9479000" />
+      <workItem from="1582936283570" duration="11424000" />
+      <workItem from="1583043505066" duration="24417000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1582282065568</created>
@@ -778,15 +887,21 @@
     <history-entry file="CodeGenerator_genCode - 2020.02.12 at 14h 14m 29s.xml">
       <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CodeGenerator_genCode_(1) - 2020.03.02 at 19h 00m 05s.xml">
+      <configuration name="CodeGenerator.genCode (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CodeGenerator_genCode - 2020.03.02 at 19h 06m 40s.xml">
+      <configuration name="CodeGenerator.genCode" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114953000" />
+    <option name="totallyTimeSpent" value="159056000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="38" y="0" width="1868" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22026667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23242944" />
       <window_info id="Structure" order="1" weight="0.1580938" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -803,13 +918,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25191677" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.25144842" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003785" side_tool="true" weight="0.32207793" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.5596027" />
       <window_info anchor="bottom" id="Tail" order="13" />
-      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.1670282" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" sideWeight="0.4996215" visible="true" weight="0.39211392" />
       <window_info anchor="bottom" id="JProfiler" order="15" />
       <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="17" />
@@ -824,8 +939,8 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="Maven" order="10" visible="true" weight="0.0624" />
-      <window_info anchor="right" id="Key Promoter X" order="11" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.15215746" />
+      <window_info anchor="right" id="Key Promoter X" order="11" weight="0.38843495" />
       <window_info anchor="right" id="Alibaba Function Compute" order="12" />
       <window_info anchor="right" id="Alibaba Log Console" order="13" />
     </layout>
@@ -838,369 +953,394 @@
     <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/SubjectController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/CourseService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/VideoMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/ChapterMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/CommentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/CourseCollectMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2862">
-          <caret line="118" column="53" selection-start-line="118" selection-start-column="53" selection-end-line="118" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/ChapterService.java">
+    <entry file="file://$PROJECT_DIR$/infrastructure/eureka-server/src/main/resources/logback-spring.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/ChapterServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="79" column="52" selection-start-line="79" selection-start-column="52" selection-end-line="79" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/VideoController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1431">
-          <caret line="60" column="37" selection-start-line="60" selection-start-column="37" selection-end-line="60" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/VideoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="17" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/VideoServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/CourseController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="81" lean-forward="true" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/TeacherQueryVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/form/CourseInfoForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/form/VideoInfoForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/SubjectServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3294">
-          <caret line="141" column="19" selection-start-line="141" selection-start-column="19" selection-end-line="141" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/TeacherServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/xml/TeacherMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/VideoVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" selection-start-line="17" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/CourseQueryVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="35" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/ChapterVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/entity/vo/SubjectVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/xml/SubjectMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-oss/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="13" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service-vod/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="130" column="9" selection-start-line="130" selection-start-column="9" selection-end-line="130" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.11.RELEASE/spring-web-5.0.11.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestBody.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/util/OssProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/common-util/src/main/java/com/atguigu/guli/common/base/result/ResultCodeEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="24" column="29" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java">
+    <entry file="file://$PROJECT_DIR$/infrastructure/eureka-server/src/main/java/com/atguigu/guli/eureka/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/ServiceEduApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/ChapterController.java">
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
-          <caret line="70" selection-start-line="70" selection-end-line="71" />
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/test/java/com/atguigu/guli/service/edu/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/infrastructure/eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/CommentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/test/java/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/entity/Daily.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/mapper/DailyMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/mapper/xml/DailyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/resources/logback-spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/test/java/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="33" column="56" lean-forward="true" selection-start-line="33" selection-start-column="56" selection-end-line="33" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/entity/Member.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/mapper/xml/MemberMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/mapper/MemberMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/ServiceUcenterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/service/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/service/impl/MemberServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6-sources.jar!/org/apache/commons/lang/math/RandomUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="85" column="43" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1593">
-          <caret line="59" column="41" lean-forward="true" selection-start-line="59" selection-start-column="41" selection-end-line="59" selection-end-column="41" />
+        <state relative-caret-position="297">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/pom.xml">
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/ChapterController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/resources/logback-spring.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/service-vod.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/ServiceVodApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="12" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/utils/VideoProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="108">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/service/impl/FileServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-86">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/utils/AliyunVodSDKUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/VideoService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        <state relative-caret-position="-1656">
+          <caret line="18" selection-start-line="18" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/conditions/query/QueryWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-279">
+          <caret line="75" column="27" selection-start-line="75" selection-start-column="27" selection-end-line="75" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-oss/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="312">
+          <caret line="26" column="41" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/TeacherController.java">
+    <entry file="file://$PROJECT_DIR$/service/service-edu/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="61" column="5" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+        <state relative-caret-position="325">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/ServiceOssApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/ServiceEduApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/controller/FileController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        <state relative-caret-position="270">
+          <caret line="23" selection-start-line="23" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/VideoService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="66" column="1" lean-forward="true" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        <state relative-caret-position="405">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/VideoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/VideoController.java">
+    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/controller/api/ApiVideoController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="278">
+          <caret line="37" selection-start-line="37" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-vod/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/java/com/atguigu/guli/service/vod/service/impl/VideoServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="148" selection-start-line="148" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-vod/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="19" column="47" lean-forward="true" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/client/OssClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="161" column="9" lean-forward="true" selection-start-line="161" selection-start-column="9" selection-end-line="161" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/client/VodClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/ServiceStatisticsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/service/DailyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/controller/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/client/UcenterClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/controller/DailyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.0.5/mybatis-plus-core-3.0.5-sources.jar!/com/baomidou/mybatisplus/core/conditions/interfaces/Func.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="217" column="17" selection-start-line="217" selection-start-column="17" selection-end-line="217" selection-end-column="17" />
+          <folding>
+            <element signature="e#5215#5216#0" expanded="true" />
+            <element signature="e#5264#5265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-statistics/src/main/java/com/atguigu/guli/service/statistics/service/impl/DailyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="67" column="34" lean-forward="true" selection-start-line="67" selection-start-column="34" selection-end-line="67" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

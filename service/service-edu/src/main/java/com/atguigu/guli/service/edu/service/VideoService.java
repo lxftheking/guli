@@ -17,4 +17,6 @@ public interface VideoService extends IService<Video> {
     VideoInfoForm getVideoInfoFormById(String id);
     void updateVideoInfoById(VideoInfoForm videoInfoForm);
     void removeVideoById(String id);
+
+
 }
