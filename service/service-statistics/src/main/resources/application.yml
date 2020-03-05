@@ -24,7 +24,10 @@ spring:
   jackson: #返回json的全局时间格式
     date-format: yyyy-MM-dd HH:mm:ss
     time-zone: GMT+8
-
+#开启熔断保护：默认false
+feign:
+  hystrix:
+    enabled: true
 mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #mybatis日志

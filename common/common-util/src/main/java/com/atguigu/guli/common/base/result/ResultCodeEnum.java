@@ -44,7 +44,8 @@ public enum ResultCodeEnum {
     GATEWAY_ERROR(false, 26000, "服务不能访问"),
 
     CODE_ERROR(false, 28000, "验证码错误"),
-    LOGIN_MOBLE_ERROR(false, 28001, "账号不正确"),
+    LOGIN_PHONE_ERROR(false, 28001, "手机号不正确"),
+
     LOGIN_PASSWORD_ERROR(false, 28008, "密码不正确"),
     LOGIN_DISABLED_ERROR(false, 28002, "该用户已被禁用"),
     REGISTER_MOBLE_ERROR(false, 28003, "手机号已被注册"),
