@@ -42,5 +42,7 @@ public class DailyController {
         return  R.ok().message("").data(map);
     }
 
+
+
 }
 

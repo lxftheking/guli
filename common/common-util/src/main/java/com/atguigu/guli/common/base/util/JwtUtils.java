@@ -73,4 +73,19 @@ public class JwtUtils {
 
         return true;
     }
+    /**
+     * 判断token是否存在与有效
+     * @param jwtToken
+     * @return
+     */
+    public static boolean checkToken(String jwtToken) {
+        if(StringUtils.isEmpty(jwtToken)) return false;
+        try {
+            Jwts.parser().setSigningKey(APP_SECRET).parseClaimsJws(jwtToken);
+        } catch (Exception e) {
+            e.printStackTrace();
+            return false;
+        }
+        return true;
+    }
 }

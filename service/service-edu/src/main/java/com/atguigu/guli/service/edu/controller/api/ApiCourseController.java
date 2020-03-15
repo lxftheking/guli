@@ -2,6 +2,7 @@ package com.atguigu.guli.service.edu.controller.api;
 
 
 import com.atguigu.guli.common.base.result.R;
+import com.atguigu.guli.service.base.dto.CourseDto;
 import com.atguigu.guli.service.edu.entity.Course;
 import com.atguigu.guli.service.edu.entity.vo.ChapterVo;
 import com.atguigu.guli.service.edu.entity.vo.WebCourseQueryVo;
@@ -10,6 +11,7 @@ import com.atguigu.guli.service.edu.service.ChapterService;
 import com.atguigu.guli.service.edu.service.CourseService;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import io.swagger.annotations.Api;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -56,6 +58,12 @@ public class ApiCourseController {
         return  R.ok().message("").data("course",courseVo).data("chapterVoList",chapterVos);
     }
 
+    @ApiOperation(value = "根据课程id查询课程信息")
+    @GetMapping(value = "inner/get-course-dto/{courseId}")
+    public CourseDto getCourseDtoById(@PathVariable String courseId){
+        CourseDto courseDto = courseService.getCourseDtoById(courseId);
+        return courseDto;
+    }
 
 }
 
