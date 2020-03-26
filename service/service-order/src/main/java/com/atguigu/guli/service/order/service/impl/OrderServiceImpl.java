@@ -7,14 +7,20 @@ import com.atguigu.guli.service.base.exception.GuliException;
 import com.atguigu.guli.service.order.client.CourseClient;
 import com.atguigu.guli.service.order.client.MemberClient;
 import com.atguigu.guli.service.order.entity.Order;
+import com.atguigu.guli.service.order.entity.PayLog;
 import com.atguigu.guli.service.order.mapper.OrderMapper;
+import com.atguigu.guli.service.order.mapper.PayLogMapper;
 import com.atguigu.guli.service.order.service.OrderService;
 import com.atguigu.guli.service.order.utils.OrderNoUtils;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
+import com.google.gson.Gson;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
+
+import java.util.Date;
+import java.util.Map;
 
 /**
  * <p>
@@ -29,11 +35,17 @@ public class OrderServiceImpl extends ServiceImpl<OrderMapper, Order> implements
 
 
 
+
+
+    @Autowired
+    private MemberClient memberClient;
+
     @Autowired
     private CourseClient courseClient;
 
     @Autowired
-    private MemberClient memberClient;
+    private PayLogMapper payLogMapper;
+
 
     /**
      * 会员下单
@@ -99,7 +111,7 @@ public class OrderServiceImpl extends ServiceImpl<OrderMapper, Order> implements
 
         QueryWrapper<Order> wrapper = new QueryWrapper<>();
         wrapper.eq("id",orderId);
-        wrapper.eq("memberId",memberId);
+        wrapper.eq("member_id",memberId);
         Order order = baseMapper.selectOne(wrapper);
 
         return order;
@@ -118,5 +130,34 @@ public class OrderServiceImpl extends ServiceImpl<OrderMapper, Order> implements
         QueryWrapper<Order> queryWrapper = new QueryWrapper<>();
         queryWrapper.eq("order_no", orderNo);
         return baseMapper.selectOne(queryWrapper);
+    }
+
+    /**
+     *	支付成功更改订单状态
+     * @param map
+     */
+    @Transactional(rollbackFor = Exception.class)
+    @Override
+    public void updateOrderStatus(Map<String, String> map) {
+
+        //更新本地课程订单状态
+        String orderNo = map.get("out_trade_no");
+        Order order = this.getOrderByOrderNo(orderNo);
+        order.setStatus(1);
+        baseMapper.updateById(order);
+
+        //记录支付日志
+        PayLog payLog = new PayLog();
+        payLog.setOrderNo(orderNo);
+        payLog.setPayTime(new Date());
+        payLog.setPayType(1);//支付类型
+        payLog.setTotalFee(order.getTotalFee().longValue());//总金额(分)
+        payLog.setTradeState(map.get("trade_state"));//支付状态
+        payLog.setTransactionId(map.get("transaction_id"));
+        payLog.setAttr(new Gson().toJson(map));
+        payLogMapper.insert(payLog);//插入到支付日志表
+
+        //更改课程购买数量
+        //TODO
     }
 }

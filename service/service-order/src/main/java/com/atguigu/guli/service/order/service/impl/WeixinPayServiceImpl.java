@@ -20,6 +20,7 @@ import java.util.Map;
 @Slf4j
 @Service
 public class WeixinPayServiceImpl implements WeixinPayService {
+
     @Autowired
     private OrderService orderService;
 
@@ -79,6 +80,42 @@ public class WeixinPayServiceImpl implements WeixinPayService {
         } catch (Exception e) {
             log.error(ExceptionUtils.getMessage(e));
             throw new GuliException(ResultCodeEnum.PAY_UNIFIEDORDER_ERROR);
+        }
+    }
+
+    @Override
+    public Map<String, String> queryPayStatus(String orderNo) {
+        try {
+            //1、封装参数
+            Map<String, String> m = new HashMap<>();
+            m.put("appid", properties.getAppid());
+            m.put("mch_id", properties.getPartner());
+            m.put("out_trade_no", orderNo);
+            m.put("nonce_str", WXPayUtil.generateNonceStr());
+
+            //2、设置请求
+            HttpClient client = new HttpClient("https://api.mch.weixin.qq.com/pay/orderquery");
+            client.setXmlParam(WXPayUtil.generateSignedXml(m, properties.getPartnerkey()));
+            client.setHttps(true);
+            client.post();
+
+            //3、返回第三方的数据
+            String xml = client.getContent();
+            Map<String, String> resultMap = WXPayUtil.xmlToMap(xml);
+
+            if("FAIL".equals(resultMap.get("return_code")) || "FAIL".equals(resultMap.get("result_code")) ){
+                log.error("查询支付结果错误 - " +
+                        "return_msg: " + resultMap.get("return_msg") + ", " +
+                        "err_code: " + resultMap.get("err_code") + ", " +
+                        "err_code_des: " + resultMap.get("err_code_des"));
+                throw new GuliException(ResultCodeEnum.PAY_ORDERQUERY_ERROR);
+            }
+
+            //4、返回map
+            return resultMap;
+        } catch (Exception e) {
+            log.error(ExceptionUtils.getMessage(e));
+            throw new GuliException(ResultCodeEnum.PAY_ORDERQUERY_ERROR);
         }
     }
 }

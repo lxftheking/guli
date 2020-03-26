@@ -3,6 +3,8 @@ package com.atguigu.guli.service.order.service;
 import com.atguigu.guli.service.order.entity.Order;
 import com.baomidou.mybatisplus.extension.service.IService;
 
+import java.util.Map;
+
 /**
  * <p>
  * 订单 服务类
@@ -21,4 +23,10 @@ public interface OrderService extends IService<Order> {
      * @return
      */
     Order getOrderByOrderNo(String orderNo);
+
+    /**
+     *	更改订单状态
+     * @param map
+     */
+    void updateOrderStatus(Map<String, String> map);
 }

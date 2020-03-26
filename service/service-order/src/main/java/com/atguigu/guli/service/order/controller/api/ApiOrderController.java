@@ -39,6 +39,7 @@ public class ApiOrderController {
     public R isBuyCourseId(@PathVariable("courseId")String courseId,HttpServletRequest request){
 
         String token = request.getHeader("token");
+        System.out.println(token);
         Claims claims = JwtUtils.parseJWT(token);
         String memberId = (String)claims.get("id");
         Boolean buyByCourseId = orderService.isBuyByCourseId(memberId, courseId);
