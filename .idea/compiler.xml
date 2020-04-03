@@ -9,11 +9,11 @@
         <module name="common-util" />
         <module name="eureka-server" />
         <module name="service-order" />
-        <module name="api-gateway" />
         <module name="service-vod" />
         <module name="service-edu" />
-        <module name="service-ucenter" />
+        <module name="api-gateway" />
         <module name="service-base" />
+        <module name="service-ucenter" />
         <module name="service-sms" />
         <module name="service-oss" />
         <module name="service-statistics" />

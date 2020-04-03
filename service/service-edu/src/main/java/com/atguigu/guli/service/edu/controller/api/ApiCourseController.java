@@ -44,7 +44,7 @@ public class ApiCourseController {
     public R pageList(
             @RequestParam("page")Long page,
             @RequestParam("limit")Long limit,
-           WebCourseQueryVo webCourseQueryVo
+            WebCourseQueryVo webCourseQueryVo
             ){
         Page<Course> page1 = new Page<>(page, limit);
         Map<String, Object> map = courseService.webSelectPage(page1, webCourseQueryVo);
