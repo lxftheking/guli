@@ -10,9 +10,9 @@ spring:
 aliyun:
   oss:
     file:
-      endpoint: oss-cn-beijing.aliyuncs.com
-      keyid: LTAI4FfZNcN9YZmNRNNbSxiE
-      keysecret: tO2P0i8iS0iW1LtdYbi4rVYSm8XRRy
+      endpoint: oss-cn-beijing.aliyuncs.com11
+      keyid: LTAI4FfZNcN9YZmNRN11NbSxiE11
+      keysecret: tO2P0i8iS0iW1LtdYbi4r11VYSm8XRRy
       #bucket可以在控制台创建，也可以使用java代码创建，注意先测试bucket是否已被占用
       bucketname: guli-theking
 eureka:

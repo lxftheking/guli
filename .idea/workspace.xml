@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c747f641-8b0a-4de1-a365-8417045eccb6" name="Default" comment="首次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/src/main/java/com/atguigu/guli/service/gateway/ServiceGatewayApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/src/main/java/com/atguigu/guli/service/gateway/config/CorsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/src/main/java/com/atguigu/guli/service/gateway/filter/AuthGlobalFilter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/src/main/java/com/atguigu/guli/service/gateway/handler/ErrorHandlerConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/api-gateway/src/main/java/com/atguigu/guli/service/gateway/handler/JsonExceptionHandler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/infrastructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/infrastructure.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/infrastructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/infrastructure/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/api/ApiCourseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/api/ApiCourseController.java" afterDir="false" />
-    </list>
+    <list default="true" id="c747f641-8b0a-4de1-a365-8417045eccb6" name="Default" comment="首次提交" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/common/target/" />
@@ -60,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="37" />
+            <state relative-caret-position="216">
+              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -105,11 +92,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/client/VodClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
               <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -156,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/CourseService.java" />
-        <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/mapper/TeacherMapper.java" />
         <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/service/impl/CourseServiceImpl.java" />
         <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/service/MemberService.java" />
         <option value="$PROJECT_DIR$/service/service-ucenter/src/main/java/com/atguigu/guli/service/ucenter/service/impl/MemberServiceImpl.java" />
@@ -207,6 +201,8 @@
         <option value="$PROJECT_DIR$/service/service-edu/src/test/java/com/atguigu/guli/service/edu/Test14.java" />
         <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/client/Quick_Sort.java" />
         <option value="$PROJECT_DIR$/service/service-edu/src/main/java/com/atguigu/guli/service/edu/controller/api/ApiCourseController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -277,8 +273,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="228" />
-    <option name="y" value="124" />
+    <option name="x" value="28" />
+    <option name="y" value="17" />
     <option name="width" value="1816" />
     <option name="height" value="997" />
   </component>
@@ -399,6 +395,36 @@
               <item name="edu" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="guli" type="b2602c69:ProjectViewProjectNode" />
+              <item name="guli" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="service-oss" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -690,7 +716,7 @@
       <workItem from="1584967706355" duration="1025000" />
       <workItem from="1585033217268" duration="2550000" />
       <workItem from="1585119365928" duration="11935000" />
-      <workItem from="1585624646191" duration="6467000" />
+      <workItem from="1585624646191" duration="7458000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交">
       <created>1582282065568</created>
@@ -742,10 +768,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264605000" />
+    <option name="totallyTimeSpent" value="265596000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="228" y="124" width="1816" height="997" extended-state="0" />
+    <frame x="28" y="17" width="1816" height="997" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23190883" />
@@ -765,14 +791,14 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992" weight="0.2483731" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4992" visible="true" weight="0.24797219" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5002667" side_tool="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3275488" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Tail" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.55856836" />
       <window_info anchor="bottom" id="JProfiler" order="14" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.4996215" visible="true" weight="0.23290846" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.4996215" weight="0.23290846" />
       <window_info anchor="bottom" id="Docker" order="16" weight="0.21258135" />
       <window_info anchor="bottom" id="Database Changes" order="17" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="18" />
@@ -844,13 +870,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.35/tomcat-embed-core-8.5.35-sources.jar!/org/apache/catalina/core/StandardWrapperValve.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="249" selection-start-line="249" selection-end-line="249" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/embed/tomcat-embed-core/8.5.35/tomcat-embed-core-8.5.35-sources.jar!/org/apache/catalina/core/StandardContextValve.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
@@ -1117,13 +1136,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/java/com/atguigu/guli/service/oss/controller/FileController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -1156,6 +1168,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="14" column="42" lean-forward="true" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/service/service-oss/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
         </state>
       </provider>
     </entry>
